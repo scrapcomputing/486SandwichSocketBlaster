@@ -19,6 +19,10 @@ This basically converts any 3-volt CPU to an "Overdrive".
 It is really simple: All CPU pins are passed through to the motherboard socket, except for the Vcc.
 Those are connected to the output of a the on-board voltage regulator or a mini buck converter that can be soldered to the board.
 
+# Videos
+
+- https://www.youtube.com/watch?v=dKPT36-fnws
+
 # Soldering/Assembly Instructions
 
 The adapter includes two parts: the top and bottom part, both of which use the exact same PCB.
